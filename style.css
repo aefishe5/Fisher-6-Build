@@ -33,7 +33,6 @@ nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    position: relative;
 }
 nav a {
     color: #F2CED8;
@@ -55,10 +54,10 @@ nav a:hover {
     padding: 5px;
 }
 nav ul:hover .subnav {
-    display: block;
+    display: flex;
 }
 nav ul:hover .subnav:hover {
-    display: block;
+    display: flex;
     background-color: #732036;
 }
 main {
@@ -80,7 +79,6 @@ main a:hover {
     color: #F2CED8;
     border: 1px solid #F2CED8;
     padding: 1rem;
-
 }
 img {
     display: block;
@@ -135,6 +133,4 @@ footer {
     .course-list {
         grid-template-columns: 1fr 1fr; 
 }
-    
-
 }
