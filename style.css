@@ -84,6 +84,10 @@ img {
     display: block;
     margin: 0 auto;
 }
+header img {
+    width: 300px;
+    height: 300px;
+}
 section {
     margin: 3px;
 }
@@ -96,10 +100,18 @@ section {
     gap: 10px; 
 
 }
+#accomplishments img {
+    width: 300px;
+    height: 300px;
+}
 .course-list li {
     background-color: #A63856;
     border-radius: 5px;
     border: 1px #F2CED8 ridge;
+}
+#complete-designs > section img{
+    height: 300px;
+    width: 300px;
 }
 footer {
     background-color: #A63856;
