@@ -10,3 +10,6 @@ Navigation Links:
 * General Studies - generals.html
 * Home Page - index.html
 * IT Courses - infotech.html
+
+Link to published site:
+https://aefishe5.github.io/Fisher-6-Build/
